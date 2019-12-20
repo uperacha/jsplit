@@ -1,7 +1,7 @@
 /*
  * jSplit 0.1
  *
- * Copyright (C) 2012 Umair H. Peracha (http://www.umairp.com)
+ * Copyright (C) 2019 Umair H. Peracha (https://github.com/uperacha/)
  * 
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software and associated documentation files (the
